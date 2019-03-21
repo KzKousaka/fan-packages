@@ -1,0 +1,6 @@
+version = "1.0"
+
+[[tools]]
+name        = "clang-8.0.0"
+type        = "compiler"
+platforms   = ["osx", "win32" , "win64", "linux32" , "linux64"]
